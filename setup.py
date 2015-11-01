@@ -20,7 +20,7 @@ setup(
         'pynetviz',
         ],
     install_requires=['networkx'],
-    long_description=read('README'),
+    long_description=read('README.rst'),
     classifiers=[
         "Programming Language :: Python",
         "License :: OSI Approved :: MIT License",
